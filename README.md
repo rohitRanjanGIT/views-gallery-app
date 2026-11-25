@@ -30,8 +30,6 @@ early software.
 3. Play Protect may warn that the app is from an unknown developer. This is expected for apps outside the Play Store.
 4. Open **Views** and grant access to photos and videos.
 
-To check the download, compare its SHA-256 with the one in the release notes.
-
 ## Privacy
 
 - **No internet permission.** The app cannot send anything anywhere. No analytics, no cloud, no ads.
