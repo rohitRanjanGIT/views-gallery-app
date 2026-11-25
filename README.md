@@ -1,8 +1,20 @@
-# Views
+<p align="center">
+  <img src="assets/icon.png" alt="Views app icon" width="128" height="128">
+</p>
 
-A fast, offline photo and video gallery for Android. Smooth on libraries of 50,000+ items, private by design.
+<h1 align="center">Views</h1>
+
+<p align="center">A fast, offline photo and video gallery for Android. Smooth on libraries of 50,000+ items, private by design.</p>
+
+<p align="center"><a href="../../releases/latest"><b>Download the latest APK</b></a></p>
 
 **This repository only hosts the app (APK) and its description. The source code is not published.**
+
+## Who it's for
+
+Built for **Motorola users**, since Motorola phones don't ship with a native gallery app of their own. It works on
+any Android phone running Android 13 or newer. It is **not optimised for tablets**: the layout is designed for
+phone screens.
 
 ## Download
 

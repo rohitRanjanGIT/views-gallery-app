@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 108 108">
+  <defs>
+    <linearGradient id="sky" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="43" y2="108">
+      <stop offset="0" stop-color="#3B2A7A"/>
+      <stop offset="0.55" stop-color="#C0467D"/>
+      <stop offset="1" stop-color="#FF9A52"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="108" height="108" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="108" height="108" fill="url(#sky)"/>
+    <path d="M34,53A20,20 0 0 1 74,53Z" fill="#FFFFFF"/>
+    <rect x="34.5" y="60" width="39" height="5" rx="2.5" fill="#FFFFFF" fill-opacity="0.8"/>
+    <rect x="42.5" y="69" width="23" height="5" rx="2.5" fill="#FFFFFF" fill-opacity="0.5"/>
+  </g>
+</svg>
